@@ -1,0 +1,6 @@
+Book ID: 1
+Name: MATH
+Author: Nadim
+Availability: y
+Reader ID: 0
+

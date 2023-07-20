@@ -1,5 +1,16 @@
 Reader ID: 1
 Name: shafin
-Due: n
-Due Book ID: 0
+Num Books Borrowed: 3
+Borrowed Book ID 1: 1
+Borrowed Book ID 2: 2
+Borrowed Book ID 2: 3
+
+
+
+
+
+
+
+
+
 
